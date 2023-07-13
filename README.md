@@ -19,8 +19,8 @@
 <h2 align="left">🔗 Connect with me</h2>
 <p align="left">
 <a href="https://twitter.com/hamza08003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza08003" height="30" width="30" />&nbsp;</a>
-<a href="https://stackoverflow.com/users/user:19166367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19166367" height="30" width="30" />&nbsp;</a>
-<a href="https://instagram.com/hamza08003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza08003" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/19166367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19166367" height="30" width="30" />&nbsp;</a>
+<a href="https://www.instagram.com/hamza_08003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza08003" height="30" width="30" /></a>
 </p><br>
 
 <h2 align="left">🛠 Languages and Tools</h2>
