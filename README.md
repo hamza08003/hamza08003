@@ -1,5 +1,5 @@
 <h2 align="center">👋 I'm Hamza</h2>
-<h3 align="center"><b>Python Expert │ Front-End Web Developer</b></h3>
+<h3 align="center"><b>Web & Python Developer</b></h3>
 <h4 align="center"><i>(Seeking for New Opportunities through learning and collaboration)</i></h4><hr><br>
 
 <div align="center">
