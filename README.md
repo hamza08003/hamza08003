@@ -9,7 +9,7 @@
 <br>
 
 <h2 align="left"><b>👨‍💻 About Me</b></h2>
-💻 Currently working on <b>E-Commerce Web App</b><br>
+💻 Working on <b>E-Commerce Web App</b><br>
 🤝 Looking to collaborate on <b>Python │ REACT Projects</b><br>
 📝 Learning <b>Node JS (Backend Web Development)</b><br>
 💬 Ask me about <b>Python and ReactJS</b><br>
