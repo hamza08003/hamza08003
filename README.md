@@ -9,10 +9,10 @@
 <br>
 
 <h2 align="left"><b>👨‍💻 About Me</b></h2>
-💻 Working on <b>E-Commerce Web App</b><br>
+💻 Working on <b>Front-End Web Apps</b><br>
 🤝 Looking to collaborate on <b>Python │ REACT Projects</b><br>
 📝 Learning <b>Node JS (Backend Web Development)</b><br>
-💬 Ask me about <b>Python and ReactJS</b><br>
+💬 Ask me about <b>Python & ReactJS</b><br>
 ✉️ Reach me at <a href="hamza2082003@gmail.com">hamza2082003@gmail.com</a><br>
 🙈 <b><i>In a world of bugs</i></b><br><br>
 
