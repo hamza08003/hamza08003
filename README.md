@@ -9,7 +9,7 @@
 <br>
 
 <h2 align="left"><b>👨‍💻 About Me</b></h2>
-💻 Committed <b>Data Scientist</b> with expertise in <b>Python & Web Automation</b><br>
+💻 Committed <b>Python Dev</b> with expertise in <b>AI & Web Automation</b><br>
 🤝 Passionate about collaborating on <b>AI, ML and DL Projects</b><br>
 📝 Currently expanding knowledge in the field of<b> AI & Networking</b>
 ✉️ Reach me at <a href="mailto:hamza2082003@gmail.com">hamza2082003@gmail.com</a><br>
