@@ -9,9 +9,9 @@
 <br>
 
 <h2 align="left"><b>👨‍💻 About Me</b></h2>
-💻 Committed <b>Python Dev</b> with expertise in <b>AI & Web Automation</b><br>
+💻 Committed <b>Python Dev</b> with expertise in field of <b>AI, Data Scraping & Web Automation</b><br>
 🤝 Passionate about collaborating on <b>ML and DRL Projects</b><br>
-📝 Currently expanding knowledge in the field of<b> AI</b>
+📝 Currently expanding knowledge in the field of <b>AI</b>
 ✉️ Reach me at <a href="mailto:hamza2082003@gmail.com">hamza2082003@gmail.com</a><br>
 
 <h2 align="left">🔗 Connect with me</h2>
