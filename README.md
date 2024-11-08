@@ -1,6 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamza08003.hamza08003" />
 
-<h2 align="center">👋 I'm Hamza</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza!;" />
+</h1>
+
 <h3 align="center"><b>Python Developer</b></h3>
 <h4 align="center"><i>(Seeking for New Opportunities through learning and collaboration)</i></h4><hr><br>
 
