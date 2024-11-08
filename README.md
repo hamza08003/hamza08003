@@ -38,5 +38,13 @@
     
 </div>
 
+<br>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake gif" src="https://raw.githubusercontent.com/hamza08003/hamza08003/output/github-snake.svg" />
+</div>
+
+
 
 <br/>
