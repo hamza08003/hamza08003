@@ -21,7 +21,7 @@
 
 <ul>
   <li>💻 <b>Data Scraping, Bots, Web & Social Media Automation</b> Specialist</li>
-  <li>🤝 Passionate about collaborating on <b>ML and DRL</b> Projects</li>
+  <li>🤝 Willing to collaborate on <b>ML and DRL</b> Projects</li>
   <li>📝 Currently pursuing <b>Data Science</b></li>
   <li>📝 Expanding knowledge in the field of <b>AI</b></li>
   <li>✉️ Reach me at <a href="mailto:hamza2082003@gmail.com">hamza2082003@gmail.com</a></li>
