@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamza08003.hamza08003" />
+
 <h2 align="center">👋 I'm Hamza</h2>
 <h3 align="center"><b>Python Developer</b></h3>
 <h4 align="center"><i>(Seeking for New Opportunities through learning and collaboration)</i></h4><hr><br>
