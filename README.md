@@ -2,7 +2,6 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&width=435&lines=Hi+There+%F0%9F%91%8B;I+am+Hamza+!" alt="Typing SVG" />
-  </a>
 </h1>
 
 <br>
@@ -21,7 +20,7 @@
 <h2 align="left"><b>👨‍💻 About Me</b></h2>
 
 <ul>
-  <li>💻 <b>Data Scraping, Bots, Web & Social Media Automation </b> Specialist</b></li>
+  <li>💻 <b>Data Scraping, Bots, Web & Social Media Automation</b> Specialist</li>
   <li>🤝 Passionate about collaborating on <b>ML and DRL</b> Projects</li>
   <li>📝 Currently pursuing <b>Data Science</b></li>
   <li>📝 Expanding knowledge in the field of <b>AI</b></li>
@@ -29,7 +28,7 @@
 </ul>
 
 <br>
- 
+
 <h2 align="left">⚒️ Languages, Frameworks, and Tools</h2>
 
 <br>
@@ -46,8 +45,6 @@
      <img src="https://skillicons.dev/icons?i=selenium,bots,discord,regex,instagram,git" />
 </div>
     
-</div>
-
 <br>
 <br>
 
