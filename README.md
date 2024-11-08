@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamza08003.hamza08003" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&width=435&lines=Hi+There+%F0%9F%91%8B;I+am+Hamza+!" alt="Typing SVG" />
   </a>
 </h1>
@@ -17,19 +16,21 @@
   <img alt="Coding" width="350" src="https://github.com/hamza08003/hamza08003/blob/main/profile%20gif.gif">
 </div>
 
-
 <br>
 
 <h2 align="left"><b>👨‍💻 About Me</b></h2>
-💻 Committed <b>Python Dev</b> with expertise in field of <b>AI, Data Scraping & Web Automation</b><br>
-🤝 Passionate about collaborating on <b>Machine learning and Deep Reinforcement learning</b>  Projects<br>
-📝 Currently persuing <b> Data Science</b> & expanding knowledge in the field of <b> AI</b> <br>
-✉️ Reach me at <a href="mailto:hamza2082003@gmail.com">hamza2082003@gmail.com</a><br>
+
+<ul>
+  <li>💻 <b>Data Scraping, Bots, Web & Social Media Automation </b> Specialist</b></li>
+  <li>🤝 Passionate about collaborating on <b>ML and DRL</b> Projects</li>
+  <li>📝 Currently pursuing <b>Data Science</b></li>
+  <li>📝 Expanding knowledge in the field of <b>AI</b></li>
+  <li>✉️ Reach me at <a href="mailto:hamza2082003@gmail.com">hamza2082003@gmail.com</a></li>
+</ul>
 
 <br>
-<br>
  
-<h2 align="left">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages, Frameworks, and Tools</h2>
 
 <br>
 
@@ -51,5 +52,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed" alt="Quote" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&animation=grow_out_in" alt="Quote" />
 </p>
