@@ -49,5 +49,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&animation=grow_out_in" alt="Quote" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed" alt="Quote" />
 </p>
