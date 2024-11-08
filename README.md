@@ -1,15 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamza08003.hamza08003" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Hamza !;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&width=435&lines=Hi+There+%F0%9F%91%8B;I+am+Hamza+!" alt="Typing SVG" />
+  </a>
 </h1>
 
+<br>
+
 <h3 align="center"><b>A Passionate Python Developer</b></h3>
-<h4 align="center"><i>(Seeking for New Opportunities through learning and collaboration)</i></h4><hr><br>
+<h4 align="center"><i>(Seeking for New Opportunities through learning and collaboration)</i></h4>
+
+<br>
 
 <div align="center">
   <img alt="Coding" width="350" src="https://github.com/hamza08003/hamza08003/blob/main/profile%20gif.gif">
 </div>
+
 
 <br>
 
@@ -22,7 +29,9 @@
 <br>
 <br>
  
-<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
+
+<br>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,anaconda,mongodb,mysql,postgres,sqlite" />
@@ -39,4 +48,8 @@
 </div>
 
 <br>
+<br>
 
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed" alt="Quote" />
+</p>
