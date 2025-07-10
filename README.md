@@ -1,31 +1,55 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamza08003.hamza08003" />
+<!-- Start Wrapper -->
+<div id="user-content-toc">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&width=435&lines=Hi+There+%F0%9F%91%8B;I+am+Hamza+!" alt="Typing SVG" />
-</h1>
+  <!-- visitor badge Top Right -->
+  <p align="right">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hamza08003.hamza08003" alt="Visitor Badge" />
+  </p>
 
-<br>
+  <!-- typing animation -->
+  <p align="center" style="line-height: 1;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=750&center=true&width=435&lines=Hi+There+%F0%9F%91%8B;I+am+Hamza+!" alt="Typing SVG" />
+  </p>
 
-<h3 align="center"><b>A Passionate Python Developer</b></h3>
-<h4 align="center"><i>(Seeking for New Opportunities through learning and collaboration)</i></h4>
+  <!-- heading with tight spacing below -->
+  <h3 align="center" style="margin-top: -10px;">
+    <strong>A PASSIONATE PYTHON DEVELOPER</strong>
+  </h3>
 
-<br>
+  <!-- tagline -->
+  <p align="center">
+    <strong><i>(Seeking New Opportunities through Learning and Collaboration)</i></strong>
+  </p>
 
-<div align="center">
-  <img alt="Coding" width="350" src="https://github.com/hamza08003/hamza08003/blob/main/profile%20gif.gif">
 </div>
 
-<br>
+ <!-- visual vertical gap -->
+<p>&nbsp;</p>
+
+<!-- profile GIF -->
+<div align="center">
+  <img alt="Coding" width="500" src="https://github.com/hamza08003/hamza08003/blob/main/profile%20gif.gif" />
+</div>
+
+
+ <!-- visual vertical gap -->
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <h2 align="left"><b>👨‍💻 About Me</b></h2>
 
 <ul>
-  <li>💻 <b>Data Scraping, Bots, Web & Social Media Automation</b> Specialist</li>
-  <li>🤝 Willing to collaborate on <b>ML and DRL</b> Projects</li>
-  <li>📝 Currently pursuing <b>Data Science</b></li>
-  <li>📝 Expanding knowledge in the field of <b>AI</b></li>
-  <li>✉️ Reach me at <a href="mailto:hamza2082003@gmail.com">hamza2082003@gmail.com</a></li>
+  <li>💻 Backend Developer — focused on building scalable backend systems & architecture</li>
+  <li>⚙️ Django, DRF, FastAPI, Flask — experienced in REST API development</li>
+  <li>🔐 User Auth, JWT, OAuth — secure user authentication & API integration</li>
+  <li>🗃️ PostgreSQL, SQLite, MongoDB — worked with relational & NoSQL databases</li>
+  <li>🚀 Persuing Data Science — Actively learning GenAI & Reinforcement Learning</li>
+  <li>🤖 Worked extensively on large scale data scraping & workflow automation bots</li>
+  <li>🐳 Docker, Git, GCP, CI/CD Basics — containerization and basic DevOps workflows</li>
+  <li>✉️ Mail me at — <a href="mailto:hamza2082003@gmail.com">hamza2082003@gmail.com</a></li>
 </ul>
+
+
 
 <br>
 
@@ -33,21 +57,29 @@
 
 <br>
 
+<!-- 🧑‍💻 Languages & Databases -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,anaconda,mongodb,mysql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,html,sqlite,postgres,mongodb,anaconda" />
 </div>
 
+<!-- ⚙️ Frameworks, Tools & Libraries -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,postman,flask,fastapi,docker" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,gcp,docker,postman,git" />
 </div>
 
+<!-- 🤖 AI, ML & CV Stack -->
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=selenium,bots,discord,regex,instagram,git" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,qt,raspberrypi,powershell" />
+</div>
+
+<!-- 🔧 Automation & Scripting -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,bots,discord,linux,mint" />
 </div>
     
 <br>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed" alt="Quote" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" alt="Quote" />
 </p>
