@@ -81,5 +81,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" alt="Quote" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed" alt="Quote" />
 </p>
