@@ -78,7 +78,6 @@
 </div>
     
 <br>
-<br>
 
 
 <!-- GitHub Stats and Top Languages -->
@@ -88,14 +87,14 @@
 
 <div align="center">
   <a href="https://github.com/hamza08003">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza08003&theme=elegant&area=true" />
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza08003&theme=elegant&area=true&" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hamza08003&theme=codeSTACKr" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hamza08003&theme=codeSTACKr&hide_border=true" />
 </div>
 
 <br>
@@ -106,6 +105,8 @@
 
 <br>
 
+<h2 align="left">📜 Motivation</h2>
+<br>
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed" alt="Quote" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=highcontrast&font=Redressed" alt="Quote" />
 </p>
