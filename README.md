@@ -88,20 +88,20 @@
 
 <div align="center">
   <a href="https://github.com/hamza08003">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza08003&theme=react&area=true" />
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza08003&theme=elegant&area=true" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hamza08003&theme=react" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hamza08003&theme=codeSTACKr" />
 </div>
 
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza08003&show_icons=true&theme=react&rank_icon=github""/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza08003&show_icons=true&theme=codeSTACKr&rank_icon=github""/>
 </div>
 
 <br>
