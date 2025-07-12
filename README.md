@@ -95,9 +95,13 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza08003&show_icons=true&theme=react&rank_icon=github""/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hamza08003&theme=react" />
+</div>
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza08003&show_icons=true&theme=react&rank_icon=github""/>
 </div>
 
 <br>
