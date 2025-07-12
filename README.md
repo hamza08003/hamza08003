@@ -80,6 +80,27 @@
 <br>
 <br>
 
+
+<!-- GitHub Stats and Top Languages -->
+<h2 align="left">🚀 Statistics </h2>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/hamza08003">
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza08003&theme=elegant&hide_border=true&area=true" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza08003&show_icons=true&theme=codeSTACKr&rank_icon=github""/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hamza08003&theme=codeSTACKr&hide_border=true" />
+</div>
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed" alt="Quote" />
 </p>
